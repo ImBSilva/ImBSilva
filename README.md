@@ -33,57 +33,63 @@
 
 ---
 
-<h3 align="center">🚀 Tecnologias & Ferramentas</h3>
+<h2 align="center">🚀 Tech Stack</h2>
 
-<h4 align="center">🎨 Design & UX</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Suite-DA1F26?style=for-the-badge&logo=adobe&logoColor=white" />
-</div>
+<br />
 
-<h4 align="center">🌐 Front-end</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-</div>
-
-<h4 align="center">⚙️ Back-end & Linguagens</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</div>
-
-<h4 align="center">🎮 Game Dev & 3D</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Substance%20Painter-4F4F4F?style=for-the-badge&logo=adobe&logoColor=white" />
-</div>
-
-<h4 align="center">🔒 Cybersecurity & AppSec</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</div>
-
-<h4 align="center">🤖 IA, LLMs & Produtividade</h4>
-<div align="center">
-  <img src="https://img.shields.io/badge/OpenCode-6C5CE7?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LM%20Studio-00B894?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qwen-FF6B6B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <b>🎨 Design & UX</b>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white" />
+      <img src="https://img.shields.io/badge/Adobe%20Suite-DA1F26?style=flat-square&logo=adobe&logoColor=white" />
+    </td>
+    <td width="33%" align="center">
+      <b>🌐 Front-end</b>
+      <br /><br />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+    </td>
+    <td width="33%" align="center">
+      <b>⚙️ Back-end</b>
+      <br /><br />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <b>🎮 Game & 3D</b>
+      <br /><br />
+      <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+      <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
+      <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" />
+    </td>
+    <td width="33%" align="center">
+      <b>🔒 AppSec</b>
+      <br /><br />
+      <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+    </td>
+    <td width="33%" align="center">
+      <b>🤖 IA & LLMs</b>
+      <br /><br />
+      <img src="https://img.shields.io/badge/OpenCode-6C5CE7?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/LM%20Studio-00B894?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/Qwen-FF6B6B?style=flat-square&logoColor=white" />
+      <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+</table>
 
 ---
 
