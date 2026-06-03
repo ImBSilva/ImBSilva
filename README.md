@@ -1,30 +1,23 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF9&center=true&vCenter=true&width=700&lines=%3E+Ol%C3%A1!+Eu+sou+o+Bruno+%F0%9F%91%8B;%3E+UI%2FUX+Designer+%26+Fullstack+Developer;%3E+3D+Artist+%26+Game+Developer;%3E+AppSec+%26+Cybersecurity+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1!+Eu+sou+o+Bruno+%F0%9F%91%8B;UI%2FUX+Designer+%26+Fullstack+Developer;3D+Artist+%26+Game+Developer;AppSec+%26+Cybersecurity+Enthusiast" />
 </h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ImBSilva&color=00FFF9&style=flat-square&label=VISITANTES" />
-  <img src="https://img.shields.io/github/followers/ImBSilva?label=SEGUIDORES&style=flat-square&color=FF00FF&logo=github" />
-</p>
-
-<br />
 
 <div align="center">
   <a href="https://linkedin.com/in/brunorei/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-00FFF9?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:brunoreinaldosilva@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-FF00FF?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://gitlab.com/imbsilva" target="_blank">
-    <img src="https://img.shields.io/badge/GITLAB-9B59B6?style=for-the-badge&logo=gitlab&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
   <a href="https://artstation.com/bruno_silva" target="_blank">
-    <img src="https://img.shields.io/badge/ARTSTATION-00FFF9?style=for-the-badge&logo=artstation&logoColor=black" />
+    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" />
   </a>
   <a href="https://github.com/ImBSilva" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-FF00FF?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
@@ -40,104 +33,111 @@
 
 ---
 
-<h3 align="center">🔷 TECH STACK 🔷</h3>
+<h3 align="center">🚀 Tecnologias & Ferramentas</h3>
 
 <h4 align="center">🎨 Design & UX</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/Figma-00FFF9?style=for-the-badge&logo=figma&logoColor=black" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF00FF?style=for-the-badge&logo=adobexd&logoColor=black" />
-  <img src="https://img.shields.io/badge/Adobe%20Creative%20Suite-9B59B6?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design%20Systems-00FFF9?style=for-the-badge&logo=google&logoColor=black" />
-  <img src="https://img.shields.io/badge/Prototipagem-FF00FF?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Suite-DA1F26?style=for-the-badge&logo=adobe&logoColor=white" />
 </div>
 
 <h4 align="center">🌐 Front-end</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-00FFF9?style=for-the-badge&logo=html5&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS3-FF00FF?style=for-the-badge&logo=css3&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-9B59B6?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-00FFF9?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Angular-FF00FF?style=for-the-badge&logo=angular&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </div>
 
 <h4 align="center">⚙️ Back-end & Linguagens</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/C%23-9B59B6?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-00FFF9?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-FF00FF?style=for-the-badge&logo=cplusplus&logoColor=black" />
-  <img src="https://img.shields.io/badge/APIs%20REST-00FFF9?style=for-the-badge&logo=fastapi&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </div>
 
 <h4 align="center">🎮 Game Dev & 3D</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/Unity-FF00FF?style=for-the-badge&logo=unity&logoColor=black" />
-  <img src="https://img.shields.io/badge/Unreal%20Engine-00FFF9?style=for-the-badge&logo=unrealengine&logoColor=black" />
-  <img src="https://img.shields.io/badge/Blender-9B59B6?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maya-FF00FF?style=for-the-badge&logo=autodesk&logoColor=black" />
-  <img src="https://img.shields.io/badge/ZBrush-00FFF9?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/Substance%20Painter-9B59B6?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Substance%20Painter-4F4F4F?style=for-the-badge&logo=adobe&logoColor=white" />
 </div>
 
 <h4 align="center">🔒 Cybersecurity & AppSec</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/OWASP%20Top%2010-00FFF9?style=for-the-badge&logo=owasp&logoColor=black" />
-  <img src="https://img.shields.io/badge/Codifica%C3%A7%C3%A3o%20Segura-FF00FF?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/An%C3%A1lise%20de%20Vulnerabilidades-9B59B6?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco%20Networking-00FFF9?style=for-the-badge&logo=cisco&logoColor=black" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 </div>
 
-<h4 align="center">🤖 IA & Produtividade</h4>
+<h4 align="center">🤖 IA, LLMs & Produtividade</h4>
 <div align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-FF00FF?style=for-the-badge&logo=openai&logoColor=black" />
-  <img src="https://img.shields.io/badge/Claude-9B59B6?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-00FFF9?style=for-the-badge&logo=git&logoColor=black" />
-  <img src="https://img.shields.io/badge/Azure%20DevOps-FF00FF?style=for-the-badge&logo=azuredevops&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-9B59B6?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCode-6C5CE7?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LM%20Studio-00B894?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qwen-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ---
 
-<h3 align="center">📊 ESTATÍSTICAS</h3>
+<h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImBSilva&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImBSilva&theme=tokyonight&utcOffset=-3" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImBSilva&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ImBSilva&theme=github_dark" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ImBSilva&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImBSilva&theme=tokyonight" />
-</div>
-
----
-
-<h3 align="center">📈 GRÁFICO DE CONTRIBUIÇÕES</h3>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImBSilva&theme=rogue&bg_color=0d1117&hide_border=true&area=true" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImBSilva&theme=github_dark&utcOffset=-3" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImBSilva&theme=github_dark" />
 </div>
 
 ---
 
+<h3 align="center">📈 Gráfico de Contribuições</h3>
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImBSilva&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImBSilva&theme=github-dark&bg_color=0d1117&hide_border=true&area=true" />
 </div>
 
 ---
 
-<h3 align="center">📬 CONTATO</h3>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImBSilva&theme=github_dark" />
+</div>
 
-<p align="center">
-  <samp>
-    📧 <a href="mailto:brunoreinaldosilva@gmail.com">brunoreinaldosilva@gmail.com</a><br />
-    📍 São Paulo, Brasil<br />
-    🔗 <a href="https://linkedin.com/in/brunorei/">linkedin.com/in/brunorei</a><br />
-    🎮 <a href="https://artstation.com/bruno_silva">artstation.com/bruno_silva</a><br />
-    🖥️ <a href="https://gitlab.com/imbsilva">gitlab.com/imbsilva</a>
-  </samp>
-</p>
+---
+
+<h3 align="center">📫 Contato</h3>
+
+<div align="center">
+  <a href="https://linkedin.com/in/brunorei/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:brunoreinaldosilva@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://artstation.com/bruno_silva" target="_blank">
+    <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" />
+  </a>
+  <a href="https://gitlab.com/imbsilva" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+</div>
 
 <br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ImBSilva&color=blue&style=flat-square&label=Visitantes" />
+  <img src="https://img.shields.io/github/followers/ImBSilva?label=Seguidores&style=social" />
+</div>
 
 <p align="center">
   <samp>
