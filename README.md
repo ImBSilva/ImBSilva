@@ -27,7 +27,7 @@
   <samp>
     <b>Designer UI/UX</b> & <b>Desenvolvedor Fullstack</b> com +7 anos criando produtos digitais do conceito à implementação.<br />
     Também atuo como <b>Artista 3D</b>, <b>Game Developer</b> e estudo <b>Segurança de Aplicações (AppSec)</b>.<br />
-    🎮 Jogo publicado na Steam: <i>Chronos Bound: How We Became Heroes</i>
+    🎮 Jogos publicados na Steam: <i>Chronos Bound: How We Became Heroes</i>, <i>Forklift Simulator</i>, <i>The Light of the Darkness: Origins</i>
   </samp>
 </p>
 
@@ -61,6 +61,11 @@
       <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <br />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
   </tr>
   <tr>
