@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+o+Bruno+%F0%9F%91%8B;Bem-vindo(a)+ao+meu+GitHub!&center=true&size=35" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Ol%C3%A1!+Eu+sou+o+Bruno+%F0%9F%91%8B;Bem-vindo(a)+ao+meu+GitHub!" />
 </h1>
 
 <div align="center">
