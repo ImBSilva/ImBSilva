@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/imbsilva/" target="_blank">
+  <a href="https://www.linkedin.com/in/brunorei/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:57096846+ImBSilva@users.noreply.github.com" target="_blank">
@@ -77,7 +77,7 @@
 <p align="center">
   <samp>
     <b>📫 Entre em contato:</b><br />
-    LinkedIn: <a href="https://linkedin.com/in/imbsilva">linkedin.com/in/imbsilva</a><br />
+    LinkedIn: <a href="https://linkedin.com/in/brunorei">linkedin.com/in/brunorei</a><br />
     GitHub: <a href="https://github.com/ImBSilva">github.com/ImBSilva</a>
   </samp>
 </p>
