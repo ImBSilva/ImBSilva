@@ -37,8 +37,8 @@
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImBSilva&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImBSilva&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImBSilva&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ImBSilva&theme=github_dark" />
 </div>
 
 <div align="center">
@@ -47,23 +47,10 @@
 
 ---
 
-<h3 align="center">🏆 Troféus GitHub</h3>
+<h3 align="center">📈 Gráfico de Contribuições</h3>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ImBSilva&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=15" />
-</div>
-
----
-
-<h3 align="center">📌 Repositórios em Destaque</h3>
-
-<div align="center">
-  <a href="https://github.com/ImBSilva/Quickdraw">
-    <img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=ImBSilva&repo=Quickdraw&theme=github_dark&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/ImBSilva/cooperativa-site">
-    <img height="115em" src="https://github-readme-stats.vercel.app/api/pin/?username=ImBSilva&repo=cooperativa-site&theme=github_dark&hide_border=true&bg_color=0d1117" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImBSilva&theme=github-dark&bg_color=0d1117&hide_border=true" />
 </div>
 
 ---
