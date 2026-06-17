@@ -27,7 +27,7 @@
   <samp>
     <b>Designer UI/UX</b> & <b>Desenvolvedor Fullstack</b> com +7 anos criando produtos digitais.<br />
     Também atuo como <b>Artista 3D</b>, <b>Game Developer</b> e estudo <b>Segurança de Aplicações (AppSec)</b>.<br />
-    🎮 Jogos publicados que trabalhei que estão na Steam: <i>Chronos Bound: How We Became Heroes</i>, <i>Forklift Simulator</i>, <i>The Light of the Darkness: Origins</i>
+    🎮 Jogos publicados que trabalhei: <i>Chronos Bound: How We Became Heroes</i>, <i>Forklift Simulator</i>, <i>The Light of the Darkness: Origins</i>
   </samp>
 </p>
 
