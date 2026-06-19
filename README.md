@@ -152,6 +152,6 @@
 
 <p align="center">
   <samp>
-    <i>"A melhor maneira de prever o futuro é criá-lo." – Peter Drucker</i>
+    <i>“Você não pode mudar o passado, mas pode mudar o futuro.” – Assassin’s Creed 3</i>
   </samp>
 </p>
