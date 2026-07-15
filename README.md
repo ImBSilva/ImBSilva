@@ -1,7 +1,6 @@
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Ol%C3%A1!+Eu+sou+o+Bruno+%F0%9F%91%8B;UI%2FUX+Designer+%26+Fullstack+Developer;3D+Artist+%26+Game+Developer;AppSec+%26+Cybersecurity+Enthusiast" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Bitcount+Single&weight=500&size=32&pause=1000&color=00FF41&center=true&vCenter=true&width=750&lines=Hey!+I'm+Bruno+%F0%9F%91%8B;UI%2FUX+Designer+%26+Fullstack+Developer;3D+Artist+%26+Game+Developer;AppSec+%26+Cybersecurity+Enthusiast" style="display: block; margin: 0 auto;" />
+</div>
 
 <div align="center">
   <a href="https://linkedin.com/in/brunorei/" target="_blank">
@@ -25,9 +24,9 @@
 
 <p align="center">
   <samp>
-    <b>Designer UI/UX</b> & <b>Desenvolvedor Fullstack</b> com +7 anos criando produtos digitais.<br />
-    Também atuo como <b>Artista 3D</b>, <b>Game Developer</b> e estudo <b>Segurança de Aplicações (AppSec)</b>.<br />
-    🎮 Jogos publicados que trabalhei: <i>Chronos Bound: How We Became Heroes</i>, <i>Forklift Simulator</i>, <i>The Light of the Darkness: Origins</i>
+    <b>UI/UX Designer</b> & <b>Fullstack Developer</b> with 7+ years building digital products.<br />
+    Also working as a <b>3D Artist</b>, <b>Game Developer</b>, and studying <b>Application Security (AppSec)</b>.<br />
+    🎮 Published games I've worked on: <i>Chronos Bound: How We Became Heroes</i>, <i>Forklift Simulator</i>, <i>The Light of the Darkness: Origins</i>
   </samp>
 </p>
 
@@ -83,7 +82,7 @@
       <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
     </td>
     <td width="33%" align="center">
-      <b>🤖 IA & LLMs</b>
+      <b>🤖 AI & LLMs</b>
       <br /><br />
       <img src="https://img.shields.io/badge/OpenCode-6C5CE7?style=flat-square&logo=openai&logoColor=white" />
       <img src="https://img.shields.io/badge/LM%20Studio-00B894?style=flat-square&logoColor=white" />
@@ -98,7 +97,7 @@
 
 ---
 
-<h3 align="center">📊 Estatísticas do GitHub</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
@@ -113,7 +112,7 @@
 
 ---
 
-<h3 align="center">📫 Contato</h3>
+<h3 align="center">📫 Contact</h3>
 
 <div align="center">
   <a href="https://linkedin.com/in/brunorei/" target="_blank">
@@ -133,12 +132,12 @@
 <br />
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ImBSilva&color=blue&style=flat-square&label=Visitantes" />
-  <img src="https://img.shields.io/github/followers/ImBSilva?label=Seguidores&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=ImBSilva&color=blue&style=flat-square&label=Visitors" />
+  <img src="https://img.shields.io/github/followers/ImBSilva?label=Followers&style=social" />
 </div>
 
 <p align="center">
   <samp>
-    <i>“Você não pode mudar o passado, mas pode mudar o futuro.” – Assassin’s Creed 3</i>
+    <i>"You can't change the past, but you can change the future." – Assassin's Creed 3</i>
   </samp>
 </p>
