@@ -101,27 +101,8 @@
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ImBSilva&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ImBSilva&theme=github_dark" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ImBSilva&theme=github_dark&utcOffset=-3" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ImBSilva&theme=github_dark" />
-</div>
-
----
-
-<h3 align="center">📈 Gráfico de Contribuições</h3>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImBSilva&theme=github-dark&bg_color=0d1117&hide_border=true&area=true" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ImBSilva&theme=github_dark" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ImBSilva&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImBSilva&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
