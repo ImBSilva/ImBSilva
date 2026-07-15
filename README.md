@@ -100,12 +100,12 @@
 
 <h3 align="center">📊 Estatísticas do GitHub</h3>
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td align="center">
+    <td align="center" style="border: none; padding: 10px;">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ImBSilva&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
     </td>
-    <td align="center">
+    <td align="center" style="border: none; padding: 10px;">
       <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImBSilva&layout=compact&theme=radical&hide_border=true" />
     </td>
   </tr>
